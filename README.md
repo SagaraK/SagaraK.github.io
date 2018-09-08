@@ -1,4 +1,4 @@
-# SagaraK.github.io
+# Kevin Sagara
 
-## This is my _portfolio_ page
+### This is my _portfolio_ page
 
